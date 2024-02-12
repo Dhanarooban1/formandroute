@@ -63,7 +63,7 @@ const onsubmit = () =>{
     {errors.Email && <p className="input-group-text">{errors.Email.message}</p>}
 
     <input 
-    type="Number" 
+    type="password" 
     name="" 
     id="EmailName" 
     placeholder="Enter  your Password" 
